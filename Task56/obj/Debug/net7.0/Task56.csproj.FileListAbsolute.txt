@@ -1,0 +1,15 @@
+C:\Users\Лис\Desktop\work\NewLS1\languageWorkshop1\Task56\obj\Debug\net7.0\Task56.csproj.AssemblyReference.cache
+C:\Users\Лис\Desktop\work\NewLS1\languageWorkshop1\Task56\obj\Debug\net7.0\Task56.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Лис\Desktop\work\NewLS1\languageWorkshop1\Task56\obj\Debug\net7.0\Task56.AssemblyInfoInputs.cache
+C:\Users\Лис\Desktop\work\NewLS1\languageWorkshop1\Task56\obj\Debug\net7.0\Task56.AssemblyInfo.cs
+C:\Users\Лис\Desktop\work\NewLS1\languageWorkshop1\Task56\obj\Debug\net7.0\Task56.csproj.CoreCompileInputs.cache
+C:\Users\Лис\Desktop\work\NewLS1\languageWorkshop1\Task56\bin\Debug\net7.0\Task56.exe
+C:\Users\Лис\Desktop\work\NewLS1\languageWorkshop1\Task56\bin\Debug\net7.0\Task56.deps.json
+C:\Users\Лис\Desktop\work\NewLS1\languageWorkshop1\Task56\bin\Debug\net7.0\Task56.runtimeconfig.json
+C:\Users\Лис\Desktop\work\NewLS1\languageWorkshop1\Task56\bin\Debug\net7.0\Task56.dll
+C:\Users\Лис\Desktop\work\NewLS1\languageWorkshop1\Task56\bin\Debug\net7.0\Task56.pdb
+C:\Users\Лис\Desktop\work\NewLS1\languageWorkshop1\Task56\obj\Debug\net7.0\Task56.dll
+C:\Users\Лис\Desktop\work\NewLS1\languageWorkshop1\Task56\obj\Debug\net7.0\refint\Task56.dll
+C:\Users\Лис\Desktop\work\NewLS1\languageWorkshop1\Task56\obj\Debug\net7.0\Task56.pdb
+C:\Users\Лис\Desktop\work\NewLS1\languageWorkshop1\Task56\obj\Debug\net7.0\Task56.genruntimeconfig.cache
+C:\Users\Лис\Desktop\work\NewLS1\languageWorkshop1\Task56\obj\Debug\net7.0\ref\Task56.dll
